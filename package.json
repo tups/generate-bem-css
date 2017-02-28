@@ -1,0 +1,21 @@
+{
+  "name": "css-bem",
+  "version": "0.0.1",
+  "description": "Génere les class BEM pour un module défini",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "gulp-packer": "^0.1.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0"
+  },
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp build"
+  },
+  "author": "Tups <damien@tups.fr>",
+  "license": "",
+  "private": true,
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
